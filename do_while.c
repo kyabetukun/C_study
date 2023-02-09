@@ -11,7 +11,7 @@ int main (void){
 		i++;
 	}
 	printf("\n");
-	printf("do_whileで実行\n");
+	printf("do_whileで実行!!!\n");
 	i = 1;
 	do{
 		printf("*");
